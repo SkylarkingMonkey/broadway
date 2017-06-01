@@ -1,5 +1,6 @@
 body {
   font-family: Helvetica;
+  text-align: center;
 }
 
 .home {
@@ -24,6 +25,7 @@ a {
 #designedny {
   font-size: 23px;
   font-weight: bold;
+  background-image: url("./resources/images/the-flatiron-building.png");
 }
 
 footer {
