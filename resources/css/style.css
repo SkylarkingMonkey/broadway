@@ -13,6 +13,7 @@ body {
 
 a {
   color:white;
+  font-weight: lighter;
 }
 
 #nav {
@@ -25,6 +26,7 @@ a {
 }
 
 #designedny {
+  color: white;
   font-size: 23px;
   font-weight: bold;
   background-image: url("../images/the-flatiron-building.png");
