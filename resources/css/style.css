@@ -8,7 +8,7 @@ body {
   font-weight: bold;
   color: white;
   background-image: url("../images/the-flatiron-building.png");
-  
+
 }
 
 a {
@@ -32,6 +32,9 @@ a {
 
 footer {
   text-align: left;
-  font-size: 11px;
   background-color: dimgray;
+}
+
+footer span {
+    font-size: 11px;
 }
