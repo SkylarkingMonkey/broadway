@@ -15,6 +15,7 @@ a {
 }
 
 #nav {
+  position: absolute;
   font-size: 18px;
 }
 
